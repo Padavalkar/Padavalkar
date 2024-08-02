@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Padavalkar
+- 👋 Hi, I’m @ManjunathPadavalkar
 - 👀 I’m interested in  data analytics, transitioning from a successful 13-year career in sales to the IT sector.
 - 🌱 I’m currently learning Excel, Power BI, SQL, and Tableau to build a strong foundation in data analysis.
 - 💞️ I’m looking to collaborate on data analytics projects, particularly in marketing, finance, logistics, and other fields.
