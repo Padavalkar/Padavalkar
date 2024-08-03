@@ -1,4 +1,4 @@
-- #**Hi there👋, I'm Manjunath Padavalkar**
+- **Hi there👋, I'm Manjunath Padavalkar**
 __________________________________________________________________________________
 
 - 👀 I’m interested in  data analytics, transitioning from a successful 13-year career in sales to the IT sector.
